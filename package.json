@@ -1,0 +1,27 @@
+{
+  "name": "cordova-plugin-nativedatetimepicker",
+  "version": "0.0.1",
+  "description": "Simple native date time picker cordova plugin",
+  "cordova": {
+    "id": "cordova-plugin-nativedatetimepicker",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aarooraa/CordovaNativeDateTimePicker.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "author": "Tiruvarur Ramanan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aarooraa/CordovaNativeDateTimePicker/issues"
+  },
+  "homepage": "https://github.com/aarooraa/CordovaNativeDateTimePicker#readme"
+}
